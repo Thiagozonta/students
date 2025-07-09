@@ -1,0 +1,13 @@
+ #(criar ambiente virtual-->(meu_env))
+python3 -m venv meu_env
+dir
+
+sourse meu_env/bin/activate #(linux)
+cd meu_env/Scripts/activate #(windows)
+
+vc esta dentro de C:\Projetos
+executar o comando de ativacao do ambiente virtual 
+meu_env\Scripts\activate
+(meu_env) C:\Projetos
+
+pip install peewee #instalar biblioteca
